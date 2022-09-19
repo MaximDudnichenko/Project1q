@@ -1,0 +1,15 @@
+D:\Максим\GeekBrains\Project1q\bin\Debug\net6.0\Project1q.exe
+D:\Максим\GeekBrains\Project1q\bin\Debug\net6.0\Project1q.deps.json
+D:\Максим\GeekBrains\Project1q\bin\Debug\net6.0\Project1q.runtimeconfig.json
+D:\Максим\GeekBrains\Project1q\bin\Debug\net6.0\Project1q.dll
+D:\Максим\GeekBrains\Project1q\bin\Debug\net6.0\Project1q.pdb
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.csproj.AssemblyReference.cache
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.GeneratedMSBuildEditorConfig.editorconfig
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.AssemblyInfoInputs.cache
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.AssemblyInfo.cs
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.csproj.CoreCompileInputs.cache
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.dll
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\refint\Project1q.dll
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.pdb
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\Project1q.genruntimeconfig.cache
+D:\Максим\GeekBrains\Project1q\obj\Debug\net6.0\ref\Project1q.dll
