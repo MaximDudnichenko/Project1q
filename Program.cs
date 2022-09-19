@@ -34,3 +34,11 @@ string[] ElementSelection(string[] array)
     return result;
 }
 
+Console.Clear();
+Console.Write("Введите количество элементов массива: ");
+int size = int.Parse(Console.ReadLine());
+string[] stringArray = FillArray(size);
+PrintArray(stringArray);
+string[] shortArray = ElementSelection(stringArray);
+PrintArray(shortArray);
+
