@@ -18,3 +18,19 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
+string[] ElementSelection(string[] array)
+{
+    string[] result = new string[0];
+    int j = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            Array.Resize(ref result, j + 1);
+            result[j] = array[i];
+            j++;
+        }
+    }
+    return result;
+}
+
