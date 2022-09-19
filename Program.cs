@@ -18,6 +18,7 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
+// the method create new array with elements length <=3
 string[] ElementSelection(string[] array)
 {
     string[] result = new string[0];
